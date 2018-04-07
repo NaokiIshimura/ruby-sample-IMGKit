@@ -1,2 +1,7 @@
+# file
+*.jpg
+*.jpeg
+*.png
+
 # RubyMine
 .idea
