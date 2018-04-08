@@ -36,5 +36,5 @@ inside RVM folder: export TO=`which imgkit | sed 's:/imgkit:/wkhtmltoimage:'` &&
 ```
 $ ruby sample.rb
 
-#=> file.png
+#=> file/url.png
 ```
